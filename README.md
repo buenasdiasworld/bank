@@ -22,7 +22,7 @@ DELETE
 
 /account/id
 
-you can test the app via TALEND API TESTER
+you can test the app via TALEND API TESTER on http://localhost:8080/
 
 example request body for POST /transaction 
 
